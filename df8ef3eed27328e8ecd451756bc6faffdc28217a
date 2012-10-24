@@ -17,3 +17,8 @@ Conley/: 1efe699 cannot compare rationals with floats
 
 Versions:
  2012.10.23
+
+D-Modules/: 7df6283 comply with the new GAPDoc testing methods
+
+Versions:
+ 2012.06.28
